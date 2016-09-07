@@ -1,4 +1,4 @@
-/**
+/** Here's some text!
 *	Aeon Labs DSC06106-ZWUS Smart Switch
 *
 *	Based on a smattering of other device types to make it look how I want...
